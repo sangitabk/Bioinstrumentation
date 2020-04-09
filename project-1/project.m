@@ -1,7 +1,8 @@
 % Project 1
 % Course  : Bioinstrumentation
 % Summary : To find the fourier transform of the data and compare the
-%          frequecies when delta t is increased using graph.
+%           frequecies when delta t is increased using graph.
+% Author  : Sangita BK
 clc;
 clear all;
 close all;
